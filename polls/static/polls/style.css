@@ -1,0 +1,10 @@
+body {
+  background: white url("images/background.jpg") no-repeat;
+  background-size: cover;
+  font-family: "Lato", sans-serif;
+  padding-top: 5em;
+}
+
+li a {
+  color: green;
+}
